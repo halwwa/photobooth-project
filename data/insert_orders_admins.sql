@@ -22,8 +22,8 @@ INSERT INTO orders (session_id, tariff_minutes, amount, payment_method, printed_
 (5, 10, 500.00, 'qr', 0, FALSE);
 
 INSERT INTO admins (email, password_hash, name, role) VALUES
-('admin@mail.ru', 'hash1', 'Аня', 'admin'),
-('manager@mail.ru', 'hash2', 'Алена', 'manager'),
-('boss@mail.ru', 'hash3', 'Ева', 'admin');
+('anna.sobinina13@gmail.com', 'hash1', 'Аня', 'admin'),
+('alyonavik228@mail.ru', 'hash2', 'Алена', 'admin'),
+('konnova.eva.06@mail.ru', 'hash3', 'Ева', 'admin');
 
 
